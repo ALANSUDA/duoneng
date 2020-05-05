@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>多能.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B99A972C2B5AEF5F2090103DCF118D8727F1E2E2</string>
+				<key>dateExpires</key>
+				<string>2021/4/27</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B99A972C2B5AEF5F2090103DCF118D8727F1E2E2</string>
+						<key>dateExpires</key>
+						<string>2021/4/27</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AipBase.framework</string>
+					<key>symbols</key>
+					<false/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>73PRWV2A43</string>
+						<key>name</key>
+						<string>Bin An</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B99A972C2B5AEF5F2090103DCF118D8727F1E2E2</string>
+						<key>dateExpires</key>
+						<string>2021/4/27</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AipOcrSdk.framework</string>
+					<key>symbols</key>
+					<false/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>73PRWV2A43</string>
+						<key>name</key>
+						<string>Bin An</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>armv7s</string>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B99A972C2B5AEF5F2090103DCF118D8727F1E2E2</string>
+						<key>dateExpires</key>
+						<string>2021/4/27</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>IdcardQuality.framework</string>
+					<key>symbols</key>
+					<false/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>73PRWV2A43</string>
+						<key>name</key>
+						<string>Bin An</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>73PRWV2A43.com.weile.duoneng</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:www.duoneng.top</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>73PRWV2A43</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>WeexEros.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>2e72b82c-6450-4f84-a290-710e3072d530</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.weile.duoneng</string>
+			</dict>
+			<key>symbols</key>
+			<false/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>73PRWV2A43</string>
+				<key>name</key>
+				<string>Bin An</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
